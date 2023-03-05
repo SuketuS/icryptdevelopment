@@ -1,0 +1,12 @@
+Current State
+Previous State
+readers
+editors
+adminrole
+readersrole
+editorrole
+stageText
+stagenotification
+notificationType(System Notification is by default) SMS,MAIL,ALL
+descriptions
+stagespecification (START,END,INPROCESS)
